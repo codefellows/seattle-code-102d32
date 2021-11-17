@@ -1,0 +1,58 @@
+body {
+    background-color: bisque;
+}
+
+header, footer {
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+  color: red;
+  border: solid red 1px;
+  /* text-align: center; */
+  background-color: rgb(68, 19, 68);
+}
+
+h2 {
+    color: rgb(237, 229, 229);
+}
+
+header li {
+    border: solid red 1px;
+    color: red;
+    display: inline;
+    background-color: rgb(68, 19, 68);
+    padding: 3px 15px;
+    margin: 0px 5em;
+}
+
+section {
+    background-color: rgb(75, 75, 198);
+    text-align: center;
+    color: white;
+}
+
+img {
+    margin: 1em;
+    height: 400px;
+}
+
+#section2{
+    background-color: rgb(32, 32, 220);
+}
+
+.things {
+    border: solid black 1px;
+    margin: 1px;
+}
+
+footer {
+    color: white;
+}
+
+footer li {
+    text-align: right;
+    margin: 2px;
+    padding: 2px;
+}
